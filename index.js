@@ -15,9 +15,9 @@ const hoverOverText = document.getElementById('hover_over_icon_text')
 const iconToText = {
     'touch_icon': 'All Assessments One Touch Away',
     'bed_icon': 'Bedside Charting',
-    'chat_icon': 'Touch and Speed2Text AI Assistant',
+    'chat_icon': 'Touch and Speech2Text AI Assistant',
     'doc_icon': 'Chunk Documentation Into More Manageable Pieces',
-    'data_icon': 'Swift Data Trasnfer to EHR Software',
+    'data_icon': 'Swift Data Transfer to EHR Software',
     'bell_icon': 'Documentation and Clinical Reminders',
 }
 
